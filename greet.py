@@ -12,4 +12,5 @@ def farewell(name):
 
 
 if __name__ == "__main__":
-    print(greet("Developer"))
+    name = input("What's your name?")
+    print(f"Hello, {name}! Welcome to our project")
