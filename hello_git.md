@@ -9,3 +9,4 @@ Next steps:
 1. Make small changes daily.
 2. Learn branching and merging.
 3. Practice writing descriptive commit messages.
+4.
